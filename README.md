@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suchita Kulkarni</h1>
-<h3 align="center">I'm pursuing Third Year of Computer science Engineering.I have certified in C, C++, Basic python, Basic Java Programming Languages and in Data structure and Now I'm progressively completing the Advance Data structure and Database Management. For lookout for learning opportunities and overcome challenges in varies fields and gaining the knowledge all the while. I am dedicated to my work, also explore new fields. I hope to get some opportunities and gain some knowledge.</h3>
+<h3 align="center">I'm pursuing Final Year of Computer science Engineering.I have certified in C, C++, Basic python, Basic Java Programming Languages and in Data structure and Now I'm progressively completing the Advance Data structure and Database Management. For lookout for learning opportunities and overcome challenges in varies fields and gaining the knowledge all the while. I am dedicated to my work, also explore new fields. I hope to get some opportunities and gain some knowledge.</h3>
 
 <img align="right" alt="Coding" height = "300" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchitankulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="suchitankulkarni" /> </p>
