@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suchita-kulkarni-b7a77b253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suchita-kulkarni-b7a77b253" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/suchita_kulkarni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suchita_kulkarni/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/suchita_kulkarni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Suchita_Kulkarni/" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/064ee1a0-214c-477d-882c-7ab312d09951" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="https://www.naukri.com/code360/profile/064ee1a0-214c-477d-882c-7ab312d09951" height="30" width="40" /></a>
 </p>
 
